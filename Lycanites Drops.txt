@@ -1,0 +1,504 @@
+|==============================================================================================|
+|sub# = sub species, higher number = rarity						                               |
+|anything below .25% drop chance is labeled, .1, .01, etc				                       |	
+|probably spelling mistakes, search part of the word if you cant find what youre looking for   |
+|its 4:34am										                                               |
+|nice								                                                           |
+|==============================================================================================|
+
+
+Begin loot drop search
+
+
+abaia
+	fish
+	glowstone dust
+	freshwater soulstone sub3
+abtu
+	fish
+aegis
+	quartz
+	gold nug
+	emerald .1
+	cleansing crystal .01
+afrit
+	coal
+	blazerod
+	scorch fire charge
+aglebemu
+	slimeball
+	poison gland
+argus
+	ender pearl
+	obsidian
+	chaos orb charge
+arisaur
+	mob meat
+arix
+	snowball
+	ice
+	icefire charge
+asmodeus
+	redstone
+	iron ingot
+	gold ingot
+	diamond
+	nether star
+	doom fire charge
+	hell fire charge
+	demonstone
+ 	demonstone brick
+	demonstone tile
+	demon crystal
+	souls stone demonic
+	wraith sigil
+aspid
+	slimeball
+	mob meat
+	poison gland
+astaroth
+	iron ingot
+	redstone
+	devil star charge
+banshee
+	soulsand
+	ender pearl
+	ender eye .1
+barghest
+	bone
+	leather
+behemoth
+	skull
+	hell fire charge
+beholder
+	ghast tear
+	gun powder
+	glowstone dust	
+	ender eye
+	arcane laser storm charge
+belph
+	nether wart
+	doom fire charge
+cacodemon
+	ghast tear
+	gun powder
+	blaze powder
+	demonic lightning charge
+	soul stone demonic
+calpod
+	log
+	stick
+	spider eye
+	wheat seed
+	pumpkin seed
+	melon seed
+cephignis
+	mob meat
+	magma cream
+chupacabra
+	mob meat
+	leather
+cinder
+	coal
+	blaze rod
+	ember charge
+clink
+	iron ingot
+	throwing scythe
+cockatrice
+	bone
+	feather
+	chicken
+	prismarine crystal
+	emerald
+	diamond .1
+conba
+	dye
+	poop charge
+concapede
+	string
+	mob meat
+concapedesegment
+	string
+	mob meat
+crusk
+	flint
+	iron ore
+	gold ore
+	clay ball
+cryptkeeper
+	rotten flesh
+	gold nug
+darkling
+	ender pearl
+	spider eye
+	fermented spider eye
+dawon
+	quartz
+	emerald .05
+	diamond .01 sub1 sub2
+djinn
+	feather
+	chorus fruit
+	snowball
+	cleansing crystal .05
+	whirlwind charge .05
+dweller
+	fish
+	poison gland
+eechetik
+	slime ball
+	brown mushroom
+	red mushroom
+	poison gland
+ent
+	log
+	stick
+	wheat seeds
+	pumpkin seeds
+	melon seeds
+	apple .05
+	immunizer .05
+epion
+	leather
+	gunpowder
+	blood leech charge
+erepede
+	flint
+	iron ore
+	gold nug
+	mudshot charge
+ettin
+	log
+	brown mushroom
+	red mushroom
+	leather
+	coal
+eyewig
+	string
+	spider eye
+	fermented spider eye
+	poison gland
+feradon
+	bone
+	leather
+frostweaver
+	string
+	spider eye
+	frost web charge
+geist
+	rotten flesh
+	ender pearl
+	skull .05
+	geist liver
+geken
+	bone
+feonah
+	stone
+	iron ore
+	quartz
+	gold ore
+	cleansing crystal .01
+	diamond sub3
+	cleansing crystal 1 sub3
+	soul stone mountain sub3
+ghoul
+	rotten flesh
+	coal
+gorger
+	coal
+	magma cream
+	blaze powder
+	magma charge
+	iron ore
+	gold ore
+gorgomite
+	sandstone
+	stone
+	flint
+	iron ore .1
+grue
+	ender pearl
+	obsidiann
+	sould stone shadow sub3
+herma
+	fish
+ignibus
+	gun powder
+	coal
+	magma cream
+	blaze powder
+	gold nug
+	scorch fire charge
+ika
+	mob meat
+	dye
+ioray
+	fish
+	prismarine shard
+	prismarine crystals
+	dye
+	diamond
+jabberwock
+	bone
+	leather
+jengu
+	aqua pulse charge
+joust
+	mob meat
+joustalpha
+	mob meat
+khalk
+	coal
+	magma cream
+	blaze powder
+kobold
+	coal
+	iron ingot .05
+	gold nug .025
+	emerald .01
+	rabbit
+lacedon
+	fish
+lobber
+	coal
+	magma cream
+	blaze powder
+	magma charge
+	soul stone inferno sub3
+lurker
+	string
+	leather
+	posion gland
+maka
+	leather
+	mob meat
+makaalpha
+	leather 
+	mob meat
+manticore
+	leather
+	bone
+	iron ore
+maug
+	leather
+	bone
+morock
+	bone
+	prismarine shard
+	prismarine crystals
+	emerald
+	diamond .1
+nymph
+	flowers
+	wheat seeds .1
+	pumpkin seeds .1
+	melon seeds .1
+	fae bolt charge
+	immunizer .05
+pinky
+	mob meat
+quetzodracl
+	bone
+	prismarine shard
+	prismarine crystals
+	emerald
+	diamond .1
+quillbeast
+	leather
+	quill
+rahovart
+	blaze powder
+	blaze rod
+	diamond
+	nether star
+	doom fire charge
+	hell fire charge
+	demonstone
+ 	demonstone brick
+	demonstone tile
+	demon crystal
+	souls stone demonic
+	wraith sigil
+raiko
+	bone
+	feather
+reaper
+	bone
+	obsidian
+	wither skull .05
+reiver
+	snowball
+	ice
+	cleansing crystal .05
+	frostbolt charge .05
+remobra
+	slime ball
+	venom shot charge
+	poison gland
+roa
+	fish
+	bone
+roc
+	bone
+	feather
+salamander
+	coal
+	magma cream
+	blaze rod
+serpix
+	snowball
+	iron ore
+	gold ore
+	blizzard charge
+shade
+	ender pearl
+	obsidian
+shambler
+	log
+	stick
+	w p m seeds .1
+	apple .05
+	immunizer .05
+silex
+	dye
+	mob meat
+skylus
+	dye
+	prismarine shard
+	prismarine crystals .125
+spectre
+	ender pearl
+	ender eye
+	chorus fruit
+	obsidian
+	spectral bolt charge
+spriggan
+	coal
+	vine .1
+	w p m seeds .1
+	immunizer .05
+	life drain charge
+strider
+	fish
+	prismarine shard
+	prismarine crystals
+sutiramu
+	flint
+	iron ore
+	gold nug
+	spider eye
+sylph
+	glowstone dust
+	gold nug
+	cleansing crystal .05
+	aether wave charge
+tarantula
+	string
+	spider eye
+thresher
+	fish
+	prismarine shard
+	prismarine crystals
+treant
+	log
+	stick
+	w p m seeds .1
+	apple 
+	emerald
+	immunizer
+tremor
+	gun powder
+	fire work charge
+	blaze powder
+	blaze rod
+triffid
+	log
+	brown mushroom
+	red mushroom
+	w p m seeds .1
+	immunizer 
+trite
+	string
+	spider eye
+	fermented spider eye
+troll
+	log
+	bone
+	leather
+	coal
+	boulder blast charge
+uvaraptor
+	bone
+	feather
+vapula
+	stone
+	quartz
+	diamond .05
+	emerald .05
+	dye
+	cleansing crystal .01
+	crystal shard
+ventoraptor
+	bone
+	feather
+vespid
+	clay ball
+	propolis
+	veswax
+vespidqueen
+	clay ball
+	propolis
+	veswax
+volcan
+	stone
+	iron ore
+	quartz
+	gold ore .1
+	coal
+	blaze rod .1
+	ember charge
+warg
+	leather
+	bone
+wendigo
+	snow
+	packed ice
+	tundra charge
+	frosty fur
+wildkin
+	bone
+	feather
+	dye
+wisp
+	glowstone dust
+	gold nug
+	light ball
+wraamon
+	ender pearl
+	chorus fruit
+	rabbit
+	chaos orb charge .1
+wraith
+	bone
+	gun powder
+	blaze powder
+xaphan
+	slime ball
+	bone
+	blaze rod
+	acid splash charge
+yale
+	mob meat
+yeti
+	snowball
+	packed ice
+	mob meat
+	frosty fur
+zephyr
+	glowstone dust
+	gun powder
+	cleansing crystal .05
+zoataur
+	bone
+	leather
